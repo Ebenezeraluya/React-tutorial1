@@ -1,0 +1,18 @@
+.snap{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    padding-left: 150px;    
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1rem;
+    gap: 2.5em;
+    margin: 0rem 4rem;
+}
+#fle{
+    display: flex;
+    
+}
